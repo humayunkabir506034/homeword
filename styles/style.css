@@ -1,0 +1,74 @@
+*{
+
+    margin: 0;
+    padding: 5px;
+    background: linear-gradient(45deg,pink,rgb(22, 190, 126));
+}
+.div1{
+
+   
+    height: 100vh;
+    
+    background-image: url('https://wallpapercave.com/wp/fZYLpsN.jpg' )  ;
+   
+    background-repeat: no-repeat;
+    background-position:up center;
+    background-size: cover;
+    margin: auto auto;
+    text-align: right;
+    
+    
+    
+    
+    }
+
+    button{
+        font-size: 30px;
+        border: 2px solid white;
+        border-radius: 10px;
+        background-color: darkcyan;
+    }
+
+    #p1,#p2 {
+        line-height: 2em;
+    }
+
+    #Books{
+        display: flex;
+        flex-direction: row;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+       
+    }
+    
+    #Books div{
+        min-width: 300px;
+       
+       
+    }
+    #Books img{
+        width:100%;
+        
+    }
+
+    .b1{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    
+   
+       
+   
+
+    
+        
+        
+        
+        
+        
+       
+        
+        
+  
+    
